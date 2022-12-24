@@ -15,7 +15,7 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
 	go.opencensus.io v0.24.0
-	go.uber.org/zap v1.23.0
+	go.uber.org/zap v1.24.0
 	golang.org/x/sync v0.1.0
 	google.golang.org/api v0.105.0
 	google.golang.org/genproto v0.0.0-20221206210731-b1a01be3a5f6
